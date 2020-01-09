@@ -24,7 +24,7 @@
 * share different solutions from each one
 ---
 ## Bottlenecks
-to use Fabric
+* to use Fabric
 ---
 ## Conclusions
 We learnt about encription and authentication with SSL, also discuss some features about Fabric, the installation way of Haproxy in the server and reviewed the sed command to edit the config files of the servers.
