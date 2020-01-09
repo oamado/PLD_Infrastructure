@@ -33,3 +33,12 @@ This file will cover mostly topics related web-server infrastucture and devops c
 ### Activities
 **Concept socialization**  
 **Whiteboarding** 
+
+### Bottleneck
+**Run Nginx with a non-privilege user**
+**Configuration of the firewall**
+
+### Conclusions
+Be carefull when you are running software as root/superuser, test your bash scripts in a container before trying them in your server. 
+
+It is always useful to encrypt your data, by having a SSL certificate. 
