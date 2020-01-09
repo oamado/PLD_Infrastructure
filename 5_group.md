@@ -3,8 +3,8 @@
 ## Participants
 
 #### * 966 Miguel Salazar twitter: miguleosenpai git: Zelda096   
-#### * 928 Geraldinne Bohórque twitter: geraldinnebohr git: geraldinnebohr   
-#### * 953 José Calderó(X_X)
+#### * 928 Geraldinne Bohórquz twitter: geraldinnebohr git: geraldinnebohr   
+#### * 953 José Caldern(X_X)
 #### * 943 Hugo Trujillo Martinez twitter: HugoATrujillo git: hacheG
 #### * 935 Alejandro Mogollon Medina (X_X)
 #### * 836 Diego Ramos Ruiz twiteer: twitter: Imdiegoramoss git: diegormsr
@@ -13,9 +13,9 @@
 * Install and configure HAproxy
 * What is HTTPS SSL 2 main roles
 * What is a firewall?
-* change user in server
+* change user in server ![Image](https://image.freepik.com/vector-gratis/comienzo_53876-25533.jpg)
 * What is Fabric
-* What a sub-domain
+* What a sub-domain ![Image](https://image.freepik.com/vector-gratis/comienzo_53876-25533.jpg)
 ---
 ## Activities
 ---
