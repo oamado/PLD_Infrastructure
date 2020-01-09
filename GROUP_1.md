@@ -36,3 +36,14 @@
 ### Python - Network #0
 - How to check the connection with curl and http
 - How to do debugging with http
+
+## Bottleneck
+- Why I have to put www
+- How to use properly awk, dig and sed
+
+## Activities
+- Resolve advanced task in debugging and Load balancer project
+- Create a flow chart of the Airbnb deploy Static
+
+## Conclusion
+We learned about the importance of fabric with python. Also how to set up different essential things for web infrastructure as load balancer, https and firewall. 
