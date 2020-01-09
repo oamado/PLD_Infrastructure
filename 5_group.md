@@ -13,9 +13,9 @@
 * Install and configure HAproxy
 * What is HTTPS SSL 2 main roles
 * What is a firewall?
-* change user in server ![Image](https://images.vexels.com/media/users/3/134175/isolated/lists/3047359147b19028bcb836ce267b24e0-icono-de-estrella-dibujado-a-mano-56.png)
+* change user in server
 * What is Fabric
-* What a sub-domain ![Image](https://images.vexels.com/media/users/3/134175/isolated/lists/3047359147b19028bcb836ce267b24e0-icono-de-estrella-dibujado-a-mano-56.png)
+* What a sub-domain
 ---
 ## Activities
 ---
