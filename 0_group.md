@@ -40,3 +40,17 @@
 - What an HTTP response is ?
 - What an HTTP response status code is ?
 - How to make a request with cURL ?
+
+## Activities
+- Review all of the concepts
+- Making tests with containers in order to reduce committing unnecesary errors.
+- Configure the web server nginx, making both web servers the same.
+- Configure the HAproxy in order to manage the load balancer, making the servers more efficient.
+- Reviewing the rules of the firewalls, in order to block correctly the traffic.
+
+## Bottleneck
+- Knowing exactly which configuration files we had to manage.
+
+## Conclusion
+- Important to use the containers for tests, to not damage your server.
+- cURL is a nice tool in order to debug the web server.
