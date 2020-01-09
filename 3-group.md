@@ -42,25 +42,20 @@ Juan Galvis
 ACTIVITIES
 1. HAproxy uses, what it is? with help of google
 2. Test roundrobin in order to change the percentage of request per server
+3. We used sed with append, with the flag i and \a append and \s for replace \g replace phrase everywhere #i for put inside a specific line
+4. We did some exercises of function bash and how it receives parameters
+5. We discussed how works SSL and the HTTP protocol
+6. we delete some rules in the firewall using sudo ufw delete number, and sudo ufw status numbered
+7. made some exercises with awk 
+8. difference between 22 and 22/tcp is that 22 allow tcp and udp but 22/tcp only allow the tcp protocol
+9. flag -f erase and create in ln command
+10. tgz file compresed, is commomnly used on unix and linux systems
+11. ; and  ´ ´ for run process in a continue form
+12. for each env.host the entire script is going to run
+13. do the excersise peak python
 
+BOTTLENECKS
+Understand the relation of SSL certificates and HTTP protocol
 
-
-
-
-
-
-The sections that this summary should have are:
-
-- Participants (Name and links to github / twitter)
-- Objectives (with its respective votation)
-- Activities to accomplish Objectives
-- Bottlenecks
-- Conclusions
-
-## How to contribute
-
-- Fork this repository
-- Create a branch
-- Make your changes
-- Make a PR
-- Be happy!
+CONCLUSION
+We always need to check the ports in every configuration and mantain secure the configurations
