@@ -13,7 +13,7 @@
 * Install and configure HAproxy
 * What is HTTPS SSL 2 main roles
 * What is a firewall?
-* change user in server
+* change user in server ![alt text](https://cdn.icon-icons.com/icons2/989/PNG/128/Star_icon-icons.com_75206.png "Logo Title Text 1")
 * What is Fabric
 * What a sub-domain
 ---
