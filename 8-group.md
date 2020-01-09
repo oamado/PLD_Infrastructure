@@ -17,3 +17,13 @@
 ### ACTIVITIES:
 - Tests in containers for debbugin
 - read some documentation
+- Configure servers load balanser and SSL from scratch
+- comand dig and awk tests
+
+### Bottlenecks
+How to setup the programs and servers. We teached a good way to setup a server
+
+### Conclusions
+Always make the first setup manually
+Test the scripts in containers and then, run them in servers
+Automatization is very valuable because makes things easy
